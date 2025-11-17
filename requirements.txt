@@ -1,0 +1,9 @@
+sumy
+transformers
+sentencepiece
+tqdm
+torch
+razdel
+protobuf
+torchvision
+torchaudio
